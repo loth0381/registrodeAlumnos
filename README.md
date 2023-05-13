@@ -1,2 +1,3 @@
-# grupo7
-registrocivil
+# registrodeAlumnos
+registrodeAlumnos
+
